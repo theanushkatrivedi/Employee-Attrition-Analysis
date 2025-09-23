@@ -1,0 +1,5 @@
+EmpID,Department,BusinessUnit,RiskScore,RiskLevel,RecommendedAction
+[REDACTED],Production,NEL,6,HIGH RISK,Immediate Retention Meeting
+[REDACTED],Production,BPC,6,HIGH RISK,Immediate Retention Meeting
+[REDACTED],IT/IS,MSC,5,MEDIUM RISK,Monitor and Support
+Note: Employee details redacted for privacy protection

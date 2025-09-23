@@ -52,6 +52,7 @@
 ---
 
 ## 📁 Project Structure
+~~~
 ├── sql-queries/
 │   ├── 01-overall-analysis.sql      # Company-wide attrition metrics
 │   ├── 02-department-analysis.sql   # Department-level risk identification
@@ -64,7 +65,7 @@
 ├── documentation/
 │   └── business-recommendations.md  # Strategic action plan
 └── README.md
-
+~~~
 ---
 
 ## 🎯 Business Recommendations

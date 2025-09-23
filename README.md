@@ -138,10 +138,9 @@ This project demonstrates advanced SQL analytics capabilities for solving real b
 
 ## 📞 Contact & Portfolio
 
-**[Your Name]** - Data Analyst  
-📧 **[your.email@example.com]**  
-💼 **[LinkedIn Profile]**  
-🌐 **[Portfolio Website]**  
+**[Your Name]** - ANUSHKA TRIVEDI 
+📧 **[anushkatrivediwork@gmail.com]**  
+💼 **[[LinkedIn Profile](https://www.linkedin.com/in/theanushkatrivedi/)]**    
 
 *Transforming HR data into strategic business value through advanced analytics*
 
@@ -153,4 +152,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Last Updated: [Current Date]*
+*Last Updated: [23/09/2025]*
